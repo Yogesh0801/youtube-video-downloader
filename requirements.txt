@@ -1,0 +1,4 @@
+python 3.7.0
+
+pip install pytube
+pip install tkinter
